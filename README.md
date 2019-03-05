@@ -8,3 +8,14 @@ To Run the model:
 
 In browser open,
 http://127.0.0.1:5000
+
+<p><strong>Example of Ham SMS<p><strong>
+<p><img src="https://github.com/ksb214/Web-App-NLP/blob/master/Ham_input.png" alt="" /></p>
+
+<p><img src="https://github.com/ksb214/Web-App-NLP/blob/master/Ham_predict.png" alt="" /></p>
+
+<p><strong>Example of Spam SMS<p><strong>
+
+<p><img src="https://github.com/ksb214/Web-App-NLP/blob/master/Spam_input.png" alt="" /></p>
+
+<p><img src="https://github.com/ksb214/Web-App-NLP/blob/master/Spam_predict.png" alt="" /></p>
